@@ -6,12 +6,6 @@ plays a board game called Kangaroos and Wombats. We have
 implemented the rules of the game for you. Your task is to decide
 how is best to play.
 
-{:.msg-info}  
-This assignment is worth 15% of your final grade.
-
-{:.msg-warn}  
-**Deadline**: Sunday 28th of May, 2023, at 11:00pm Canberra time _sharp_
-
 ## Overview of Tasks
 
 This assignment is marked out of 100 for COMP1100 students, and 120 for COMP1130.
